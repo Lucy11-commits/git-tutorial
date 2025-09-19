@@ -1,3 +1,3 @@
-submit username
+submit username and password
 Emal address
-And ID
+And ID number
